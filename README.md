@@ -8,7 +8,8 @@ Modified SNPE android app for measuring execution pipeline:
 6. post-processing
 
 # Usage
-Open in Android studio and build the module
+1. Copy alexnet or inception to the phone using the scripts provided in the repo (requires prior [SNPE setup](https://developer.qualcomm.com/docs/snpe/tutorial_setup.html))
+2. Open in Android studio and build the module
 
 # Example
 
