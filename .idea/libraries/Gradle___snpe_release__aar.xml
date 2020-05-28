@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :snpe-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dab1f8a5cf57470e5a3f317d522f3a6a/snpe-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dab1f8a5cf57470e5a3f317d522f3a6a/snpe-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
